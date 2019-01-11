@@ -5,7 +5,7 @@
 
 RNA interference (RNAi) is a widely used technique in which double stranded RNA is exogenously introduced into an organism, causing knockdown of a target gene. In the nematode, C. elegans, RNAi is particularly easy and effective because it can be delivered simply by feeding the worms bacteria that express double stranded RNA (dsRNA) that is complementary to a gene of interest. RNAi is frequently used to perform reverse genetic screens in order to reveal which genes are important to carry out specific biological processes. [See more](https://www.jove.com/science-education/5105/rnai-in-c-elegans)
 
-### prepare plates
+### 1. Prepare plates
 
 NG 2% plates with 1 mM IPTG and 50 µg/ml Carbenicillin (5 L)
 
@@ -30,9 +30,8 @@ and pour the plates.
  1M KH2PO4, pH 6.0 (adjusted by KOH)
  
  
- ### prepare RNAi bacteria
+ ### 2. Culture RNAi bacteria and Seeding plates
  
- ### seeding plates
  
- ### prepare worms
+ ### 3. Synchronize worms
  
